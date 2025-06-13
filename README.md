@@ -10,6 +10,7 @@ py-introduction-to-sets : Calculate the avarges of items present inside a python
 
 
 text-wrap : Task to wrap the string into a paragraph of given width .
+![image](https://github.com/user-attachments/assets/c6495fdf-1f07-40cf-ac92-ad4b071ad867)
 
 
 
