@@ -15,6 +15,7 @@ text-wrap : Task to wrap the string into a paragraph of given width .
 
 
 alphabet-rangoli : pattern printing with the help of alphabets
+![image](https://github.com/user-attachments/assets/8a4dffba-8025-4b99-a305-735075d5679a)
 
 
 
