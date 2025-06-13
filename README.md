@@ -20,6 +20,7 @@ alphabet-rangoli : pattern printing with the help of alphabets
 
 
 merge-the-tools : Split a string into equal parts of length and Convert each parts by removing any subsequent occurrences of non-distinct
+![image](https://github.com/user-attachments/assets/205c210f-0bd4-4010-b510-c065ba019178)
 
 
 
