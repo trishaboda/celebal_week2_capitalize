@@ -5,6 +5,7 @@ capitalize : Task to make the first letter of every words as capital
 
 
 py-introduction-to-sets : Calculate the avarges of items present inside a python set
+![image](https://github.com/user-attachments/assets/171e9ce1-6cf0-4831-beca-d7088eb070d3)
 
 
 
