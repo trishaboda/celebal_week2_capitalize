@@ -25,6 +25,7 @@ merge-the-tools : Split a string into equal parts of length and Convert each par
 
 
 collections-counter : calculate the total earned amount
+![image](https://github.com/user-attachments/assets/343bf4c8-b196-423a-8c87-5d9fc3b8dd7b)
 
 
 
