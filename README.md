@@ -30,6 +30,7 @@ collections-counter : calculate the total earned amount
 
 
 exceptions : implementing exception handling
+![image](https://github.com/user-attachments/assets/9398bc77-951e-47db-bb6f-9ab74bf6e7b5)
 
 
 
