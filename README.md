@@ -35,6 +35,7 @@ exceptions : implementing exception handling
 
 
 incorrect-regex : regex based problem statement
+![image](https://github.com/user-attachments/assets/68607e92-b5cd-4d3a-a2e8-4cc33ff2e2b6)
 
 
 
