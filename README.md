@@ -40,3 +40,4 @@ incorrect-regex : regex based problem statement
 
 
 py-set-discard-remove-pop : task based on discard(),remove() & pop()
+![image](https://github.com/user-attachments/assets/f5c53b69-c21b-473a-90ce-b7ef516dbf19)
